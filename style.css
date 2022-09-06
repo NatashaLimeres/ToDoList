@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4fce2;
+}
+
+.to-do {
+    display: flex;
+    width: 50vw;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    gap: 15px;
+}
+
+.to-do-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    font-size: 82px;
+    font-family: 'Ms Madi', cursive;
+    color: #fc0284;
+}
+
+.to-do-list {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.to-do-item{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    box-shadow: 1px 1px 5px #aabfaa;
+}
+.to-do-item > div {
+    width: 80%;
+}
+.to-do-item:hover {
+    cursor: pointer;
+    transition: all .5s ease;
+    background-color: #aabfaa;
+    color: #f4fce2;
+}
+
+
+.to-do-item > input[type='text'] {
+    border: none;
+    width: 80%;
+    font: inherit;
+}
+
+.to-do-item > input[type='button'],
+.to-do-item > input[type='checkbox'] {
+    width: 30px;
+    height: 30px;
+    font: inherit;
+}
+
+
+.to-do-item > input[type='checkbox']:checked  + div {
+    text-decoration:line-through;
+}
+
+.text {
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.to-do-new-item {
+    display: flex;
+    background-color: #d3ebc7;
+    width: 100%;
+    height: 70px;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    box-shadow: 1px 1px 5px #aabfaa;
+    margin: 10px;
+    font: inherit;
+}
+
+.to-do-new-item > input{
+    background-color: #d3ebc7;
+    border: none;
+    width: 80%;
+    outline: none;
+    font: inherit;
+}
+
+.to-do-new-item > input::placeholder {
+    font-style: italic;
+    font-weight: normal;
+}
