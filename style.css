@@ -72,11 +72,6 @@ body {
     text-decoration:line-through;
 }
 
-.text {
-    font-size: 16px;
-    text-transform: uppercase;
-}
-
 .to-do-new-item {
     display: flex;
     background-color: #d3ebc7;
