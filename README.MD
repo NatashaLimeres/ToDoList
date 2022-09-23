@@ -3,7 +3,7 @@
 
 Projeto realizado baseado no vídeo do Youtube do Fernando Leonid.
 
-Project based on Fernando Leonid Youtube's Channel.
+Project based on Fernando Leonid's Youtube video.
 
 # Tecnologias
 
