@@ -10,7 +10,6 @@ Project based on Fernando Leonid's Youtube video.
 - HTML
 - CSS
 - Javascript
-- GIT e GITHUB
 
 Neste projeto foi possível treinar lógica de programação, manipulação de DOM, eventos, callback, estrutura de dados e cache com local storage.
 
