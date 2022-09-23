@@ -68,7 +68,7 @@ body {
 }
 
 
-.to-do-item > input[type='checkbox']:checked  + div {
+.to-do-item > input[type='checkbox']:checked + div {
     text-decoration:line-through;
 }
 
