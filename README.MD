@@ -16,4 +16,4 @@ Neste projeto foi possível treinar lógica de programação, manipulação de D
 In this project I could practice logic programming, arrays, DOM Manipulation, events, callback, data structure and handling cache with local storage.
 
 🔗 Links úteis:<br>
-Youtube vídeo:https://www.youtube.com/watch?v=oGEYs52ZuHY&t=45s
+Youtube vídeo: https://www.youtube.com/watch?v=oGEYs52ZuHY&t=45s
