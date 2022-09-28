@@ -17,3 +17,5 @@ In this project I could practice logic programming, arrays, DOM Manipulation, ev
 
 🔗 Links úteis:<br>
 Youtube vídeo: https://www.youtube.com/watch?v=oGEYs52ZuHY&t=45s
+
+Desenvolvido com 💘 por Natasha Limeres
