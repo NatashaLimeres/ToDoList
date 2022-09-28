@@ -14,3 +14,6 @@ Project based on Fernando Leonid's Youtube video.
 Neste projeto foi possível treinar lógica de programação, manipulação de DOM, eventos, callback, estrutura de dados e cache com local storage.
 
 In this project I could practice logic programming, arrays, DOM Manipulation, events, callback, data structure and handling cache with local storage.
+
+🔗 Links úteis: 
+Youtube vídeo:https://www.youtube.com/watch?v=oGEYs52ZuHY&t=45s
